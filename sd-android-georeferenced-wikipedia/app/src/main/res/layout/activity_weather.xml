@@ -1,0 +1,157 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <Button
+            android:id="@+id/Bmap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="13dp"
+            android:layout_marginRight="13dp"
+            android:onClick="sendMessage"
+            android:text="@string/map"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/City"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="50dp"
+            android:text="@string/city"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/Weather"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_below="@+id/City"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:contentDescription="@string/current_weather"
+            android:src="@drawable/sunny"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/MaxTemp"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignEnd="@+id/TimeSunSet"
+            android:layout_alignRight="@+id/TimeSunSet"
+            android:layout_alignTop="@+id/Weather"
+            android:text="@string/maxtemp"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/MinTemp"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignLeft="@+id/MaxTemp"
+            android:layout_alignStart="@+id/MaxTemp"
+            android:layout_below="@+id/MaxTemp"
+            android:text="@string/mintemp"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/Description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/Weather"
+            android:layout_marginTop="30dp"
+            android:text="@string/description"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/SunRise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/City"
+            android:layout_alignStart="@+id/City"
+            android:layout_below="@+id/Description"
+            android:layout_marginTop="48dp"
+            android:contentDescription="@string/sunrise_image"
+            android:visibility="visible"
+            app:srcCompat="@drawable/sunrise" />
+
+        <TextView
+            android:id="@+id/TimeSunRise"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/TimeSunSet"
+            android:layout_alignTop="@+id/TimeSunSet"
+            android:layout_toEndOf="@+id/SunRise"
+            android:layout_toRightOf="@+id/SunRise"
+            android:text="@string/timesunrise"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/SunSet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/SunRise"
+            android:layout_toEndOf="@+id/Weather"
+            android:layout_toRightOf="@+id/Weather"
+            android:contentDescription="@string/sunset_image"
+            android:visibility="visible"
+            app:srcCompat="@drawable/sunset" />
+
+        <TextView
+            android:id="@+id/TimeSunSet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/SunSet"
+            android:layout_marginBottom="11dp"
+            android:layout_toEndOf="@+id/SunSet"
+            android:layout_toRightOf="@+id/SunSet"
+            android:text="@string/timesunset"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/Temp"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignTop="@+id/Weather"
+            android:layout_marginLeft="13dp"
+            android:layout_marginStart="13dp"
+            android:layout_marginTop="16dp"
+            android:layout_toEndOf="@+id/SunRise"
+            android:layout_toRightOf="@+id/SunRise"
+            android:text="@string/temp"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
+
+
+

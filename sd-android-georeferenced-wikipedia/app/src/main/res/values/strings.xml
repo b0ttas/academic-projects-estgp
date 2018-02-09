@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">GeoreferencedWikipediaMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">Map</string>
+    <string name="satellite">Satellite</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="timesunset">TimeSunSet</string>
+    <string name="city">City</string>
+    <string name="mintemp">MinTemp</string>
+    <string name="timesunrise">TimeSunRise</string>
+    <string name="maxtemp">MaxTemp</string>
+    <string name="sunset_image">Sunset Image</string>
+    <string name="sunrise_image">Sunrise Image</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="description">Description</string>
+    <string name="temp">Temp</string>
+    <string name="map_type">Map Type</string>
+    <string name="weather">Weather</string>
+
+</resources>

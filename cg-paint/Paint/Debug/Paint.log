@@ -1,0 +1,5 @@
+﻿  Palette.c
+c:\users\hpnavalhas\documents\visual studio 2015\projects\paint\paint\palette.c(509): warning C4101: 'i': unreferenced local variable
+c:\users\hpnavalhas\documents\visual studio 2015\projects\paint\paint\palette.c(600): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+  Paint.vcxproj -> C:\Users\HPnavalhas\Documents\Visual Studio 2015\Projects\Paint\Debug\Paint.exe
+  Paint.vcxproj -> C:\Users\HPnavalhas\Documents\Visual Studio 2015\Projects\Paint\Debug\Paint.pdb (Full PDB)

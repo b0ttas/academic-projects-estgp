@@ -1,0 +1,6 @@
+set_backgorund color(green)
+
+for i = 1, i<temp, i++
+
+	set cursor pos (22-1, 5+hour*3)
+	printf(" ");

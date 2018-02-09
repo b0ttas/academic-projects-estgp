@@ -1,0 +1,568 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TheImpossibruCuiz
+</name>
+</assembly>
+<members>
+<member name="P:The_Impossibru_Cuiz.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._____13___bolo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._10143">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._14">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._15">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._17">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._18">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._191">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._61">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q____10___vaca">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q___10___heau">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q___10___vernaculo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q___10_valha_me">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q___11___avo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__1___Bicha____WH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__1___Fajã_de_Baixo___WH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__1___Monte_dos_Tesos___WH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__1___Vila_Nova_do_Coito">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__1_WH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__10___Nho">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__101">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__11___parede">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__11___redes_de_pesca">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__11___uma_vaca">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__12___aguadomahr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__12___Lête">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__12___oleo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__12___Papas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__13___bolo_do_caco">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__13___brisa_marinha">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__13___queimadura_de_trovao">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__13___Ruminação">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__14">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__14___Abaixo_o_gov">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__14___faja_certo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__14___fura">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__14___opera">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__15">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__15___bacalhau_15at">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__15___espanc_mad">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__15___gaivota">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__15___nadar_ilhas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__16___antonomasia">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__16___endomorfose">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__16___siso">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__16___tubernaculo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__17">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__17___atirar_mar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__17___esventrado">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__17___fundaçoes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__17___fundaçons">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__17___vir_parar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__18___asas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__18___lanternas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__18___queijo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__18___tanques">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__18_P1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__18_P2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__19___forquilhas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__19___nutricionista">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__19___passes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__19___tanques">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__2___auçás">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__2___Brachyura">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__2___Cara_de_Cú">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__2___Carangújo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__20___co_pilotos">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__20___madeirenses_exilados">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__20___peças">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__20___vacas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__20_P1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__20_P2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__4_P1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__4_P2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__5___10_23">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__5___1212kgg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__5___15at">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__5___Balde_kfc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__6___Açurianuh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__6___Bacalhau">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__6___Gaivútah">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__6___MGordo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__7___Úh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__9___fx">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__9___x2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources._Q__9___x3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Big_Red_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.climaq">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.climaq1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.climaq2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.climaq3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Congratz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.crabq">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Graphic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Pehlee_WH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.PehleeBox___Inverted___BluGre">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.png1of5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.png2of5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.png3of5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.png4of5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.png5of5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.sig1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.sig2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Title_WH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Wave_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:The_Impossibru_Cuiz.My.Resources.Resources.Wingull_Lives">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:The_Impossibru_Cuiz.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

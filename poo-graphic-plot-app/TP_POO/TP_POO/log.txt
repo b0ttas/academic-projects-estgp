@@ -1,0 +1,30 @@
+  ____________________________________________ 
+ |                                            |
+ |    Registo 1				      |
+ |                                            |
+ |    Origem: Ficheiro 		              |
+ |    Numero de valores: 80 	              |
+ |____________________________________________|
+
+  Maximos (x,y) 0.131667, 1
+  Minimos (x,y) 0, -1
+  Valor Medio 0
+  Media Quadratica 1
+  Media Movel 0
+  TimeStamp: 11-02-2017 16-26-23
+
+  ____________________________________________ 
+ |                                            |
+ |    Registo 2				      |
+ |                                            |
+ |    Origem: Interno 		              |
+ |    Numero de valores: 14 	              |
+ |____________________________________________|
+
+  Maximos (x,y) 0.13, 0.902703
+  Minimos (x,y) 0, -2.99999
+  Valor Medio -1.01536
+  Media Quadratica 1.71262
+  Media Movel -1
+  TimeStamp: 11-02-2017 16-54-54
+

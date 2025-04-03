@@ -1,0 +1,33 @@
+.chart{
+  display: flex;
+  flex: 1 1 auto;
+  /* position: relative; */
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.chart > * {
+  display: flex;
+  width: 50%;
+  /*position: relative;*/
+}
+
+.student-details {
+  display: flex;
+  text-align: center;
+  flex: 1 1 auto;
+  flex-direction: column;
+  /*overflow: auto;*/
+  justify-content: center;
+}
+
+.student-details-container {
+  display: flex;
+  text-align: center;
+  /*flex: 1 1 auto;*/
+  flex-direction: column;
+  /*overflow: auto;*/
+  justify-content: center;
+}

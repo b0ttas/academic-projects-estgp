@@ -1,0 +1,13 @@
+.subjectsGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+.subjectsButton {
+    cursor: pointer;
+}
+.subjectsButton:hover{
+    text-decoration: underline;
+}

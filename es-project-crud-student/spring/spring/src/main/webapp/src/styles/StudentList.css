@@ -1,0 +1,91 @@
+.studentList {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: scroll;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list .student-card {
+  width: 60%;
+  height: 15%;
+  margin: 1%;
+  padding: 1%;
+}
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 1%;
+}
+
+.grid .student-card {
+  width: 25%;
+  /*height: 50%;*/
+  margin: 1%;
+  padding: 1%;
+}
+
+.student-card {
+  flex-basis: fit-content;
+  cursor: pointer;
+  /*max-width: 350px !important;*/
+  background-color: #f7f7f7;
+  /*padding: 20px 25px 30px;
+  margin: 50px auto 25px;*/
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.student-card h1:hover  {
+text-decoration: underline;
+}
+
+.student-card h1 {
+  color: #007bff;
+}
+
+.student-card p strong.yes {
+  color: green;
+}
+
+.student-card p strong.no {
+  color: red;
+}
+
+.student-card progress {
+  width: 100%;
+}
+
+.student-card-header{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.student-card-content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.student-card-content > * {
+  margin: 0 5px;
+}
+
+.studentListSaveContainer {
+  display: flex;
+}
+

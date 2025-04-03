@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Signika';
+  src: url('../fonts/Signika.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Thin.ttf') format('truetype');
+}
+
+html, body {
+  font-family: 'Signika', 'sans-serif';
+  background-color: #1A1A1A;
+}
+
+h1, h2, p {
+  font-family: 'Roboto', 'sans-serif';
+}
+
+button {
+  text-align: right; 
+  background-color: #FECB08; 
+  color: #1A1A1A;
+  width: auto; 
+  border: 1px solid transparent;
+  border-radius: 4px;
+  font-family: 'Signika', 'sans-serif';
+  font-size: 0.8em;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+button:hover{
+  text-decoration: underline;
+}

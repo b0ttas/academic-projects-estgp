@@ -1,0 +1,65 @@
+.card-container.card {
+    display: flex;
+    max-width: 350px !important;
+    padding: 40px 40px;
+}
+
+.card {
+    background-color: #f7f7f7;
+    padding: 20px 25px 30px;
+    margin: 50px auto 25px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.profile-img-card {
+    width: 96px;
+    height: 96px;
+    margin: auto 80px auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.submit {
+    margin-top: 10px;
+}
+
+.login {
+    flex: 1 1 auto;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+/*.flex-item {
+    flex: 1;
+}
+
+.flex-item:first-child > span {
+    margin-right: auto;
+}
+
+.flex-item:last-child > span {
+    margin-left: auto;
+}*/
+
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.alert {
+    border-color: transparent;
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin: 1rem;
+    border-radius: .25rem;
+}

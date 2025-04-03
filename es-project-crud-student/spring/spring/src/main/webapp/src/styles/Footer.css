@@ -1,0 +1,9 @@
+.footer {
+    flex: 0 1 auto;
+    background-color: #1A1A1A;
+    padding: 10px;
+}
+
+.logoFooter {
+    max-width: 100px;
+}

@@ -1,0 +1,18 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+/*.flex-item {
+    flex: 1;
+  }
+
+.flex-item:first-child>span {
+    margin-right: auto;
+  }
+  
+  .flex-item:last-child>span {
+    margin-left: auto;
+}*/
+

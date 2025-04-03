@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 auto;
+    max-width: 100%;
+    flex-wrap: wrap;
+    /*background-color: #dedede;*/
+    /*padding: 10px;*/
+}
+
+.headerButtons {
+    background-color: #1A1A1A;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+   /* margin: 0 5px 0 auto;*/
+}
+
+.headerButtons > * {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    cursor: pointer;
+    max-width: 150px;
+}
+
+.signIn {
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 0.8em;
+}
+
+.signIn:hover {
+    text-decoration-line: underline;
+}
+
+.signup {
+    float: right;
+    text-align: right;
+    width: auto;
+    cursor: pointer;
+    font-size: 0.8em;
+}
+
+.signup:hover {
+    text-decoration-line: underline;
+}

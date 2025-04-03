@@ -1,0 +1,69 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DjangoWeaver - Systems, Connect, Interlinked</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="shortcut icon" href="{% static 'images/favicon.png' %}">
+</head>
+<body>
+<div class="page">
+    <div class="content">
+        <div class="logo-box">
+            <div class="logo">
+                <img src="{% static 'images/favicon.png' %}" alt="Logo" style="height: 48px;">
+                <h1>DjangoWeaver</h1>
+            </div>
+            <a class="subtext">Systems, Connect, Interlinked</a>
+        </div>
+
+        <section id="features">
+            <div class="features-grid">
+                <div class="feature">
+                    <div>
+                        <img class="img-features" src="{% static 'images/feature1.png' %}" alt="Image - Feature 1">
+                    </div>
+                    <div>
+                        <h3>Seamless Integration</h3>
+                        <p>Integrate with various systems effortlessly, ensuring smooth and efficient workflows.</p>
+                    </div>
+
+                </div>
+                <div class="feature">
+                    <div>
+                        <h3>High Performance</h3>
+                        <p>Experience lightning-fast performance with our optimized solutions.</p>
+                    </div>
+                    <div>
+                        <img class="img-features" src="{% static 'images/feature2.png' %}" alt="Image - Feature 2">
+                    </div>
+                </div>
+                <div class="feature">
+                    <div>
+                        <img class="img-features" src="{% static 'images/feature3.png' %}" alt="Image - Feature 3">
+                    </div>
+                    <div>
+                        <h3>Scalability</h3>
+                        <p>Scale your operations seamlessly as your business grows.</p>
+                    </div>
+                </div>
+                <div style="display: flex; justify-content: center">
+                    <a href="/admin" class="cta-button">Get Started</a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2024 DjangoWeaver. All rights reserved.</p>
+        <div class="social-icons">
+            <a href="#"><img src="{% static 'images/facebook-icon.png' %}" alt="Facebook" class="social-icons"></a>
+            <a href="#"><img src="{% static 'images/x-icon.png' %}" alt="X" class="social-icons"></a>
+            <a href="#"><img src="{% static 'images/linkedin-icon.png' %}" alt="LinkedIn" class="social-icons"></a>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{% extends "rest_framework/base.html" %}
+{% load static %}
+
+{% block title %} DjangoWeaver - Browsable API {% endblock %}
+
+{% block branding %}
+    <a class='navbar-brand' rel="nofollow" href="https://www.django-rest-framework.org/" style="display: flex; align-items: center">
+        <img src="{% static 'images/favicon.png' %}" alt="Logo" width="40" height="40">
+    </a>
+    <a class='navbar-brand' rel="nofollow" href="https://www.django-rest-framework.org/" style="display: flex; align-items: center">
+        <p style="margin: auto">DjangoWeaver</p>
+    </a>
+{% endblock %}
+
+{% block style %}
+    {{ block.super }}
+    <link rel="shortcut icon" href="{% static 'images/favicon.png' %}">
+{% endblock %}

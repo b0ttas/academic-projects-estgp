@@ -1,0 +1,47 @@
+<!-- templates/pae/email_history.html -->
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DjangoWeaver - Email History</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="shortcut icon" href="{% static 'images/favicon.png' %}">
+</head>
+<body>
+<div class="page">
+    <div class="content">
+        <h1>Email History for {{ user_email }}</h1>
+        <section class="card-section">
+            <ul class="email-list">
+                {% for email in emails %}
+                    <li class="email-card">
+                        <h3>{{ email.subject }}</h3>
+                        <p><strong>Sent At:</strong> {{ email.date_sent }}</p>
+                        <p>{{ email.body }}</p>
+                        <h4>Attachments:</h4>
+                        <ul>
+                            {% for attachment in email.attachments.all %}
+                                <li>
+                                    <a href="?file_id={{ attachment.id }}" download>{{ attachment.filename }}</a></li>
+                            {% empty %}
+                                <li>No attachments</li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% empty %}
+                    <li>No emails found</li>
+                {% endfor %}
+            </ul>
+        </section>
+        <div class="button-wrapper">
+            <a href="{% url 'home' %}" class="cta-button">Back to Home</a>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 DjangoWeaver. All rights reserved.</p>
+    </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{% extends "admin/base_site.html" %}
+{% load static %}
+
+{% block branding %}
+    <a href="/admin/" style="display: flex; align-items: center">
+        <img src="{% static 'images/favicon.png' %}" alt="Logo" width="40" height="40">
+    </a>
+    <a href="/admin/" style="display: flex; align-items: center">
+        <h1 id="site-name"><i class="fas fa-home"></i>DjangoWeaver</h1>
+    </a>
+{% endblock %}

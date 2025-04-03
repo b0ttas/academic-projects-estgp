@@ -1,0 +1,64 @@
+<!-- templates/pae/manage_subscriptions.html -->
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage Subscriptions</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="shortcut icon" href="{% static 'images/favicon.png' %}">
+</head>
+<body>
+<div class="page">
+    <div class="content">
+        <h1>Manage Subscriptions for {{ user_email }}</h1>
+
+        {% if messages %}
+            {% for message in messages %}
+                <p class="message {{ message.tags }}">{{ message }}</p>
+            {% endfor %}
+        {% endif %}
+
+        <section class="card-section">
+            <ul class="subscription-list">
+                {% for subscription in subscriptions %}
+                    <li class="subscription-card">
+                        <h3>{{ subscription.service.name }}</h3>
+                        <p><strong>Report ID:</strong> {{ subscription.report_id }}</p>
+                        <p><strong>Interval:</strong> {{ subscription.cron_update_interval }}</p>
+                        <p><strong>Status:</strong> 
+                            <span class="{% if subscription.is_active %}active{% else %}inactive{% endif %}">
+                                {% if subscription.is_active %}Active{% else %}Inactive{% endif %}
+                            </span>
+                        </p>
+
+                        <form method="POST" class="subscription-form">
+                            {% csrf_token %}
+                            {{ form.as_p }}
+                            <input type="hidden" name="subscription_id" value="{{ subscription.id }}">
+
+                            {% if subscription.is_active %}
+                                <input type="hidden" name="action" value="update">
+                                <button type="submit" class="cta-button">Update Interval</button>
+                            {% else %}
+                                <input type="hidden" name="action" value="reactivate">
+                                <button type="submit" class="cta-button">Reactivate Subscription</button>
+                            {% endif %}
+                        </form>
+                    </li>
+                {% empty %}
+                    <li>No subscriptions found.</li>
+                {% endfor %}
+            </ul>
+        </section>
+        <div class="button-wrapper">
+            <a href="{% url 'home' %}" class="cta-button">Back to Home</a>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 DjangoWeaver. All rights reserved.</p>
+    </footer>
+</div>
+</body>
+</html>

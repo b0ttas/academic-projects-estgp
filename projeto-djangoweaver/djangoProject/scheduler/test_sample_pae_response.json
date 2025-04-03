@@ -1,0 +1,659 @@
+{
+    "authenticated": true,
+    "service": "ok",
+    "response": {
+        "mode": "invoke",
+        "result": {
+            "failRateThreshold": 70,
+            "reportNotifications": [
+                {
+                    "personstoNotify": [
+                        {
+                            "role": "Coordenador Curso",
+                            "urnIdentifier": "teacher:20122",
+                            "name": "Vera Lúcia Vintém Barradas Martins",
+                            "emailToNotify": "verab@ipportalegre.pt"
+                        },
+                        {
+                            "role": "Membro Coordenação Curso",
+                            "urnIdentifier": "teacher:20121",
+                            "name": "Vanda José Avelar Correia",
+                            "emailToNotify": "vcorreia@ipportalegre.pt"
+                        }
+                    ],
+                    "reportItemPluralTitleSingular": "Estudante",
+                    "reportDescription": "Este relatório apresenta o número de sucessos e de insucessos em termos de aproveitamento de unidades curriculares para cada um dos estudantes do Curso matriculados no ano corrente",
+                    "reportTitle": "Taxa de Sucesso de Design de Comunicação/24863 por estudante",
+                    "creationDate": 1727766204505,
+                    "items": [
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "0.00000",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "100.00000",
+                                    "fieldNumericValue": 100,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "0",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "12",
+                                    "fieldNumericValue": 12,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "24863",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "1",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "0.00000",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "100.00000",
+                                    "fieldNumericValue": 100,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "0",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "16",
+                                    "fieldNumericValue": 16,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "23249",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "0.00000",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "100.00000",
+                                    "fieldNumericValue": 100,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "0",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "8",
+                                    "fieldNumericValue": 8,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "22595",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "0.00000",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "100.00000",
+                                    "fieldNumericValue": 100,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "0",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "13",
+                                    "fieldNumericValue": 13,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "20565",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "4db396e1628c3b51ec562730449510dc545231ad0fb5423ce913784596010f50",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "0.00000",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "100.00000",
+                                    "fieldNumericValue": 100,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "0",
+                                    "fieldNumericValue": 0,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "11",
+                                    "fieldNumericValue": 11,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "17206",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "3",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "50a69d048540e62d39a92a12f095255494b562cfa3b6c1eb576ada1420a84f2c",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "7.69231",
+                                    "fieldNumericValue": 7.69231,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "92.30769",
+                                    "fieldNumericValue": 92.30769,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "1",
+                                    "fieldNumericValue": 1,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "12",
+                                    "fieldNumericValue": 12,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "22597",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "7.69231",
+                                    "fieldNumericValue": 7.69231,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "92.30769",
+                                    "fieldNumericValue": 92.30769,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "1",
+                                    "fieldNumericValue": 1,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "12",
+                                    "fieldNumericValue": 12,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "22616",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "8.33333",
+                                    "fieldNumericValue": 8.33333,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "91.66667",
+                                    "fieldNumericValue": 91.66667,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "1",
+                                    "fieldNumericValue": 1,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "11",
+                                    "fieldNumericValue": 11,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "9536",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "3",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "13.33333",
+                                    "fieldNumericValue": 13.33333,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "86.66667",
+                                    "fieldNumericValue": 86.66667,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": 2,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "13",
+                                    "fieldNumericValue": 13,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "22759",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "3",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "14.28571",
+                                    "fieldNumericValue": 14.28571,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "85.71429",
+                                    "fieldNumericValue": 85.71429,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": 2,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "12",
+                                    "fieldNumericValue": 12,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "22660",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "3",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "25.00000",
+                                    "fieldNumericValue": 25,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "75.00000",
+                                    "fieldNumericValue": 75,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "3",
+                                    "fieldNumericValue": 3,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "9",
+                                    "fieldNumericValue": 9,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "24140",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "1",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        },
+                        {
+                            "code": "---",
+                            "factualFieldList": [
+                                {
+                                    "fieldStringValue": "25.00000",
+                                    "fieldNumericValue": 25,
+                                    "fieldLabel": "SucessoRate"
+                                },
+                                {
+                                    "fieldStringValue": "75.00000",
+                                    "fieldNumericValue": 75,
+                                    "fieldLabel": "FalhasRate"
+                                },
+                                {
+                                    "fieldStringValue": "3",
+                                    "fieldNumericValue": 3,
+                                    "fieldLabel": "Sucessos"
+                                },
+                                {
+                                    "fieldStringValue": "9",
+                                    "fieldNumericValue": 9,
+                                    "fieldLabel": "Falhas"
+                                },
+                                {
+                                    "fieldStringValue": "20845",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "CodigoCurso"
+                                },
+                                {
+                                    "fieldStringValue": "2",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "AnoInscricaoAtual"
+                                },
+                                {
+                                    "fieldStringValue": "Sim",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "PropinasEmDia"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoTrabalhadorEstudante"
+                                },
+                                {
+                                    "fieldStringValue": "Não",
+                                    "fieldNumericValue": null,
+                                    "fieldLabel": "TipoAlunoBolseiro"
+                                }
+                            ],
+                            "label": "null",
+                            "email": "---@ipportalegre.pt"
+                        }
+                    ],
+                    "reportItemPluralTitlePlural": "Estudantes"
+                }
+            ]
+        }
+    }
+}

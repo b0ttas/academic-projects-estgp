@@ -1,0 +1,31 @@
+<!-- templates/unsubscribe_confirm.html -->
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DjangoWeaver - Unsubscribe</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="shortcut icon" href="{% static 'images/favicon.png' %}">
+</head>
+<body>
+<div class="page">
+    <div class="content">
+        <h1>Unsubscribe</h1>
+        <p>Are you sure you want to unsubscribe from our mailing list?</p>
+        <form method="post" class="unsubscribe-form">
+            {% csrf_token %}
+            <button type="submit" class="cta-button">Yes, Unsubscribe Me</button>
+        </form>
+        <div class="button-wrapper">
+            <a href="{% url 'home' %}" class="cta-button">Back to Home</a>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 DjangoWeaver. All rights reserved.</p>
+    </footer>
+</div>
+</body>
+</html>
+

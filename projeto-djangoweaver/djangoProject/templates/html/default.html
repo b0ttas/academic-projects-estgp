@@ -1,0 +1,56 @@
+<style>
+    .embed-card {
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+        background-color: #fefefe;
+        padding: 20px;
+        border-radius: 0;
+        width: fit-content;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .embed-table {
+        border-collapse: collapse;
+    }
+
+    .embed-thead {
+        background-color: orange;
+    }
+
+    .embed-header {
+        color: white;
+        font-weight: 700;
+        padding: 5px;
+    }
+
+    .embed-items {
+        font-weight: normal;
+        border-bottom: 1px solid #ddd;
+        padding: 5px;
+    }
+
+    .embed-values {
+        font-weight: normal;
+    }
+</style>
+
+<body>
+<div class="embed-card">
+    <table class="embed-table">
+        <thead class="embed-thead">
+        <tr>
+            <th class="embed-header" style="text-align: left; padding-right: 75px;">Key</th>
+            <th class="embed-header">Value</th>
+        </tr>
+        </thead>
+        <tbody>
+        <th class="embed-header"></th>
+        {% for key, value in data.items %}
+            <tr class="embed-items">
+                <td style="text-align: left">{{ key }}</td>
+                <td class="embed-values"> {{ value }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+</body>

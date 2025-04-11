@@ -15,6 +15,8 @@ Here are some screenshots showcasing the application:
 - Screenshot 2: [Class Management](./screenshots/subject.png)
 - Screenshot 3: [User Settings](./screenshots/admin-users.png)
 
+> More files are available in the "screenshots" path.
+
 ## Installation
 
 ### Backend (Spring Boot)
